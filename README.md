@@ -6,3 +6,10 @@
 
 ## Comic Book Classifer
   * This should be model that tells you how close to a given artist your style is.
+
+## Update to Matt Richardson's [Descriptive Camera™](http://mattrichardson.com/Descriptive-Camera/)
+  * Can We build a Deeplearing Model that can detects objects and feed that into Text Generation Model
+  * Data Sources:
+      - wiki103 pre-trained
+      - https://en.wikipedia.org/wiki/Lists_of_colors
+      - Text of a Photo book

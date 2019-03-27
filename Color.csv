@@ -1,4 +1,4 @@
-HEX,RED,GREEN,Blue,HUE,SATURATION,VALUE,NAME
+HEX,RED,GREEN,BLUE,HUE,SATURATION,VALUE,NAME
 hex=0048BA,r=0 ,g=72 ,b=186,h=217,s=100,v=73 ,name="Absolute Zero"
 hex=B0BF1A,r=176,g=191,b=26,h=65 ,s=76 ,v=43 ,name="Acid green"
 hex=7CB9E8,r=124,g=185,b=232,h=206,s=47 ,v=91 ,name="Air Force Blue"

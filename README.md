@@ -13,3 +13,8 @@
       - wiki103 pre-trained
       - https://en.wikipedia.org/wiki/Lists_of_colors
       - Text of a Photo book
+
+## From Facial Sketch to Description
+  * Given a Facial Sketch create the language for it.
+  * This could be done as Seq2Seq
+  * Could this feed back into the Descriptive Project?

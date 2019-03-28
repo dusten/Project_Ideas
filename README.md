@@ -18,3 +18,8 @@
   * Given a Facial Sketch create the language for it.
   * This could be done as Seq2Seq (Sketch to Description to Sketch)
   * Could this feed back into the Descriptive Project?
+
+## Color Swatch Dataset
+  * https://www.colorhexa.com/color-names
+  * https://en.wikipedia.org/wiki/Lists_of_colors
+  * https://github.com/dusten/Project_Ideas/blob/master/Color.csv

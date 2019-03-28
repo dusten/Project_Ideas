@@ -16,5 +16,5 @@
 
 ## From Facial Sketch to Description
   * Given a Facial Sketch create the language for it.
-  * This could be done as Seq2Seq
+  * This could be done as Seq2Seq (Sketch to Description to Sketch)
   * Could this feed back into the Descriptive Project?

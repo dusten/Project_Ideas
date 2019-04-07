@@ -23,3 +23,8 @@
   * https://www.colorhexa.com/color-names
   * https://en.wikipedia.org/wiki/Lists_of_colors
   * https://github.com/dusten/Project_Ideas/blob/master/Color.csv
+
+## Citi Bike / Any Bike sharing
+  * Can we predect the number of bikes at a given station
+  * Weather Data?
+  * Citi Bike Data

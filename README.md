@@ -7,6 +7,7 @@
 ## Comic Book Classifer
   * This should be model that tells you how close to a given artist your style is. 
   * https://taboocomics.wordpress.com/2015/04/28/my-top-ten-comic-book-artist-and-there-art-styles-q/
+  * https://www.syfy.com/syfywire/25-of-the-greatest-comic-artists-from-the-last-25-years
 
 ## Update to Matt Richardson's [Descriptive Camera™](http://mattrichardson.com/Descriptive-Camera/)
   * Can We build a Deeplearing Model that can detects objects and feed that into Text Generation Model

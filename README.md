@@ -30,3 +30,7 @@
   * Can we predect the number of bikes at a given station
   * Weather Data?
   * Citi Bike Data (https://www.citibikenyc.com/system-data)
+
+## Predicting The Price of a DVC point
+  * https://www.resalesdvc.com/dvc-resale-listings/
+  * https://www.dvcresalemarket.com/listings/

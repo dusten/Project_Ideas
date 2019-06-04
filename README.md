@@ -28,7 +28,7 @@
 
 ## Citi Bike / Any Bike sharing
   * Can we predect the number of bikes at a given station
-  * Weather Data?
+  * Weather Data? (https://darksky.net/dev/docs)
   * Citi Bike Data (https://www.citibikenyc.com/system-data)
 
 ## Predicting The Price of a DVC point

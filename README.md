@@ -42,3 +42,10 @@
   * DarkSky (https://darksky.net/dev/docs)
   * Looks like you can get historcal data and a one weeks forcast.
   
+## Alert you to when to apply PGR
+  * https://www.twilio.com/sms
+  * Location
+  * DarkSky
+  * GDD
+  * 7,5,3 day alerts
+  

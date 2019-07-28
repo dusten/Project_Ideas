@@ -46,6 +46,9 @@
   * https://www.twilio.com/sms
   * Location
   * DarkSky
-  * GDD
+  * GDD Tracker - http://www.gddtracker.net/
   * 7,5,3 day alerts
   
+## Weed Identification
+  * https://www.turffiles.ncsu.edu/weeds-in-turf/
+  * Herbicide Guide - https://thelawnforum.com/viewtopic.php?f=9&t=6334

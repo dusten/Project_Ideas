@@ -52,3 +52,6 @@
 ## Weed Identification
   * https://www.turffiles.ncsu.edu/weeds-in-turf/
   * Herbicide Guide - https://thelawnforum.com/viewtopic.php?f=9&t=6334
+  
+## Transform an Image given a Styled Image
+  * https://towardsdatascience.com/style-transfer-with-gans-on-hd-images-88e8efcf3716

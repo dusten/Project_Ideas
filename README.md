@@ -55,3 +55,11 @@
   
 ## Transform an Image given a Styled Image
   * https://towardsdatascience.com/style-transfer-with-gans-on-hd-images-88e8efcf3716
+  
+## Disney World Line Wait Times
+  * Collect Line wait times
+  * Weather
+  * Holiday Status
+  * Opening and Closing Times
+  * Special Event
+  * Extra magic hours

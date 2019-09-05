@@ -63,3 +63,6 @@
   * Opening and Closing Times
   * Special Event
   * Extra magic hours
+  * Dowjones Percentage Change days 1,7,30,90,120,365
+  * Inflation for US,China,Japan,Germany,UK,India,France,Brazil,Italy,Canada
+  

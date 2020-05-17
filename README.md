@@ -55,6 +55,7 @@
   
 ## Transform an Image given a Styled Image
   * https://towardsdatascience.com/style-transfer-with-gans-on-hd-images-88e8efcf3716
+  * https://github.com/sgugger/Deep-Learning/blob/master/DeepPainterlyHarmonization.ipynb
   
 ## Disney World Line Wait Times
   * Collect Line wait times
@@ -65,4 +66,8 @@
   * Extra magic hours
   * Dowjones Percentage Change days 1,7,30,90,120,365
   * Inflation for US,China,Japan,Germany,UK,India,France,Brazil,Italy,Canada
+  
+## Play Games
+  * Monopoly
+  * Clue
   

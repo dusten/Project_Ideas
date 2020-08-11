@@ -71,3 +71,7 @@
   * Monopoly
   * Clue
   
+## Evaluate The Federalist Papers Authors
+  * https://en.wikipedia.org/wiki/The_Federalist_Papers#Authorship
+  * Collect Writing Samples 
+  * Build Models

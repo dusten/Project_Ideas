@@ -73,5 +73,5 @@
   
 ## Evaluate The Federalist Papers Authors
   * https://en.wikipedia.org/wiki/The_Federalist_Papers#Authorship
-  * Collect Writing Samples 
+  * Collect Writing Samples - https://guides.loc.gov/federalist-papers/full-text
   * Build Models

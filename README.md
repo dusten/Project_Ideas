@@ -75,3 +75,8 @@
   * https://en.wikipedia.org/wiki/The_Federalist_Papers#Authorship
   * Collect Writing Samples - https://guides.loc.gov/federalist-papers/full-text
   * Build Models
+
+## [Sonoff Basic](https://github.com/dusten/Sonoff_Basic_Timer) - Done?
+  * Custom Firmware to allow more the 6 devices
+  * On-Prem Server
+  * IOS App with no code.

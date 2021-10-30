@@ -36,7 +36,7 @@
   * https://www.dvcresalemarket.com/listings/
 
 ## Edit a TV show to remove a commerchial
-  * Can we train a deep learning model to understand that this frame is part of the tv show but the next one start the commershial?
+  * Can we train a deep learning model to understand that this frame is part of the tv show but the next one start the commercial?
   
 ## Does your project need Localized Weather Data?
   * DarkSky (https://darksky.net/dev/docs)

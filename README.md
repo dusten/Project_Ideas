@@ -80,3 +80,11 @@
   * Custom Firmware to allow more the 6 devices
   * On-Prem Server
   * IOS App with no code.
+
+## Lanudry IoT
+  * Washer or Dryer
+  * How much time is left
+  * Is it On
+  * Alert when Finished
+  * Record Start Time / End Time
+  * when is it most used
